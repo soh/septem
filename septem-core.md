@@ -132,7 +132,7 @@ remember her.
 To advance a level, PCs need 10 checks.
 
 Level     | Description
-----------|- -
+----------|--
 Unskilled | What you think you know about the skill does you more harm than good.
 L1        | You can avoid the worst mistakes.
 L2 - L7   | Your skill is working.
