@@ -42,14 +42,14 @@ Communicating difficulty is done with words, as part of the narrative.
 
 ### Difficulty levels
 
-Name           |    Roll
-----           |-   -----
-Easy           |    10
-Reasonable     |    20
-Chancy         |    40
-Hard           |    60
-Unlikely       |    80
-Daunting       |    90
+Name           | Roll
+----           |------
+Easy           | 10
+Reasonable     | 20
+Chancy         | 40
+Hard           | 60
+Unlikely       | 80
+Daunting       | 90
 
 ### Difficulty stages
 
