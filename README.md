@@ -45,9 +45,9 @@ All mechanics and rules are accomplished within the narrative.
 
 Pope jokes aside, our first three goals are deadly earnest:
 
-0. Simple enablement of human decisions.
-0. Minimal numbers, metrics, and lookups.
-0. Stay in Character Voice, not Player Voice.
+1. Simple enablement of human decisions.
+1. Minimal numbers, metrics, and lookups.
+1. Stay in Character Voice, not Player Voice.
 
 Let's break down how the same scenario works mechanically:
 

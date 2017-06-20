@@ -2,17 +2,17 @@
 
 Action is the core of Septem. The stages of action are:
 
-0. Setup
+1. Setup
     * GM sets up the scene
-0. Pitch
+1. Pitch
     * PC makes an initial pitch
     * GM request details, if necessary
     * PC describes action and skill
     * GM assigns difficulty and effect
-0. Negotiation
+1. Negotiation
     * PC may counters or readjusts
     * GM may reassign difficulty or effect
-0. Action
+1. Action
     * PC rolls
     * GM describes the effect of action
 
