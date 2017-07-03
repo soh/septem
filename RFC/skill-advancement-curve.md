@@ -10,3 +10,5 @@ L3 | L4 | 15
 L4 | L5 | 20
 L5 | L6 | 25
 L6 | L7 | 30
+
+JP: We haven't tried this out yet? Or are we currently using this?

@@ -17,3 +17,5 @@ Immediately, the PC with L2 Pugilism will smell a rat, and a good PC may
 renegotiate. Instead, say:
 
 > It *seems to you* that it will be easy to punch this little punk.
+
+JP: This seems straightforward to me, and I think I do this sometimes, but we haven't formally agreed on the mechanic?
