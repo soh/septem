@@ -16,3 +16,15 @@ Impossible     | 125
 Legendary      | 150
 Miraculous     | 175
 Inconceivable  | 200
+
+JP: Trying math:
+
+Player Skill (d100): 1-100
+Cooperation   (6d6): 6-36  (3.5*6=21)
+Epic         (3d12): 3-36  (6.5*3=19.5)
+
+                   : 10-172
+
+Party Coop?  (6d6?)
+
+Would bring it up to 200ish
