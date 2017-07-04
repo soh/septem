@@ -57,9 +57,8 @@ Often a simple success/failure result isn't enough. The PC may be trying
 something complicated, or the GM may want to increase narrative tension.
 Expanding on the previous lock-picking example, a GM might say:
 
-> It will be easy for you to tell if you've succeeded in opening the lock,
-> reasonable not to break your picks, chancy to actually get it open, and
-> hard to end up with a functioning lock you can keep.
+> It's reasonable you can at least not break your picks, but chancy to actually
+> get it open, and hard to end up with a functioning lock you can keep.
 
 ## Skill use & dice rolls
 
